@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Devblaze14/Devblaze14/main/assets/hero.svg" alt="Hi, I am Nikhil — Builder of agentic AI and full-stack systems"/>
+  <img width="100%" src="https://raw.githubusercontent.com/Devblaze14/Devblaze14/main/assets/hero.png" alt="Hi, I am Nikhil — Builder of agentic AI and full-stack systems"/>
 </p>
 
 <p align="center">
