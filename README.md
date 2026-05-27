@@ -23,7 +23,7 @@
 
 ### About
 
-Developer focused on building practical AI systems that solve real-world problems — from agentic workflows to retrieval-based tools and the full-stack work that makes them usable.
+Developer focused on building practical AI systems that solve real-world problems, from agentic workflows to retrieval-based tools and the full-stack work that makes them usable.
 
 - 🔭 Currently exploring agentic frameworks and production-grade RAG
 - 🛠️ Comfortable in Python, TypeScript, Kotlin, and whatever the problem demands
