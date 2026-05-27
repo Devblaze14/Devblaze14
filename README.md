@@ -23,12 +23,11 @@
 
 ### About
 
-I'm a developer from India working on AI agents, retrieval systems, and the messy production work that makes them ship.
+Developer focused on building practical AI systems that solve real-world problems — from agentic workflows to retrieval-based tools and the full-stack work that makes them usable.
 
-- 🔭 Currently building agentic dev tools and knowledge-graph RAG for real users, not demos
-- 🧠 Most at home in Python, FastAPI, and Next.js; I reach for whatever the problem needs
-- 📌 My pinned repos appear right below this README — full list at [my repos](https://github.com/Devblaze14?tab=repositories)
-- 💬 Ask me anything → [open an issue here](https://github.com/Devblaze14/Devblaze14/issues)
+- 🔭 Currently exploring agentic frameworks and production-grade RAG
+- 🛠️ Comfortable in Python, TypeScript, Kotlin, and whatever the problem demands
+- 💬 Open to collaboration → [reach out via issues](https://github.com/Devblaze14/Devblaze14/issues) or LinkedIn below
 
 ---
 
